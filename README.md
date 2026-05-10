@@ -1,4 +1,3 @@
-# DevOps
 # 🚀 DevOps Automation Project
 
 A complete DevOps project demonstrating CI/CD pipelines, containerization, infrastructure automation, and cloud deployment practices using modern DevOps tools.
