@@ -6,11 +6,11 @@ Ansible automates the management of remote systems and controls their desired st
 
 
 # Ansible environments have three main components:
-# Control node
-A system on which Ansible is installed. You run Ansible commands such as ansible or ansible-inventory on a control node.
+# Control Node
+The main computer where Ansible is installed and from where you run Ansible commands.
 
 # Inventory
-A list of managed nodes that are logically organized. You create an inventory on the control node to describe host deployments to Ansible.
+A file that contains the list of servers/devices Ansible will manage.(i.e. hosts)
 
-# Managed node
-A remote system, or host, that Ansible controls.
+# Managed Node
+The remote server or system that Ansible connects to and controls.
